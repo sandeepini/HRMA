@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="23" total="25" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OrangeSuite" duration-ms="32937" started-at="2018-02-25T09:49:52Z" finished-at="2018-02-25T09:50:25Z">
+    <groups>
+    </groups>
+    <test name="TestOnChrome" duration-ms="32937" started-at="2018-02-25T09:49:52Z" finished-at="2018-02-25T09:50:25Z">
+      <class name="com.hrm.scripts.TestSearchButton">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.hrm.scripts.TestSearchButton@6e1ec318]" name="initApplication" is-config="true" duration-ms="4146" started-at="2018-02-25T15:20:10Z" finished-at="2018-02-25T15:20:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.hrm.scripts.TestSearchButton@6e1ec318]" name="preCondition" is-config="true" duration-ms="3882" started-at="2018-02-25T15:20:15Z" finished-at="2018-02-25T15:20:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hrm.scripts.TestSearchButton.testSearchButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testSearchButton()[pri:2, instance:com.hrm.scripts.TestSearchButton@6e1ec318]" name="testSearchButton" duration-ms="3867" started-at="2018-02-25T15:20:18Z" finished-at="2018-02-25T15:20:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchButton -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.hrm.scripts.TestSearchButton@6e1ec318]" name="postCondition" is-config="true" duration-ms="983" started-at="2018-02-25T15:20:22Z" finished-at="2018-02-25T15:20:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchButton status=SUCCESS method=TestSearchButton.testSearchButton()[pri:2, instance:com.hrm.scripts.TestSearchButton@6e1ec318] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.hrm.scripts.TestSearchButton@6e1ec318]" name="closeApplication" is-config="true" duration-ms="1529" started-at="2018-02-25T15:20:23Z" finished-at="2018-02-25T15:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.hrm.scripts.TestSearchButton -->
+      <class name="com.hrm.scripts.LoginLogoutTest">
+        <test-method status="PASS" signature="initFrameWork()[pri:0, instance:com.hrm.scripts.LoginLogoutTest@10bdf5e5]" name="initFrameWork" is-config="true" duration-ms="265" started-at="2018-02-25T15:19:52Z" finished-at="2018-02-25T15:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initFrameWork -->
+        <test-method status="PASS" signature="initGlobalVar()[pri:0, instance:com.hrm.scripts.LoginLogoutTest@10bdf5e5]" name="initGlobalVar" is-config="true" duration-ms="0" started-at="2018-02-25T15:19:52Z" finished-at="2018-02-25T15:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initGlobalVar -->
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.hrm.scripts.LoginLogoutTest@10bdf5e5]" name="initApplication" is-config="true" duration-ms="4802" started-at="2018-02-25T15:19:52Z" finished-at="2018-02-25T15:19:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.hrm.scripts.LoginLogoutTest@10bdf5e5]" name="preCondition" is-config="true" duration-ms="4441" started-at="2018-02-25T15:19:57Z" finished-at="2018-02-25T15:20:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testAutoLoginLogout1()[pri:1, instance:com.hrm.scripts.LoginLogoutTest@10bdf5e5]" name="testAutoLoginLogout1" duration-ms="9" started-at="2018-02-25T15:20:01Z" finished-at="2018-02-25T15:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutoLoginLogout1 -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.hrm.scripts.LoginLogoutTest@10bdf5e5]" name="postCondition" is-config="true" duration-ms="7061" started-at="2018-02-25T15:20:01Z" finished-at="2018-02-25T15:20:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAutoLoginLogout1 status=SUCCESS method=LoginLogoutTest.testAutoLoginLogout1()[pri:1, instance:com.hrm.scripts.LoginLogoutTest@10bdf5e5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.hrm.scripts.LoginLogoutTest@10bdf5e5]" name="closeApplication" is-config="true" duration-ms="2193" started-at="2018-02-25T15:20:08Z" finished-at="2018-02-25T15:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:com.hrm.scripts.LoginLogoutTest@10bdf5e5]" name="publishReport" is-config="true" duration-ms="421" started-at="2018-02-25T15:20:25Z" finished-at="2018-02-25T15:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- com.hrm.scripts.LoginLogoutTest -->
+    </test> <!-- TestOnChrome -->
+  </suite> <!-- OrangeSuite -->
+</testng-results>

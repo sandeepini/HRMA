@@ -1,0 +1,30 @@
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:17:11,379 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:17:11,693 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:17:11,718 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:32,949 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:33,198 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:33,220 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:44,023 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:46,106 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:46,115 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:9) This script will automatically login and logout 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:46,119 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:46,120 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:49,189 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:18:51,572 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/25_02_2018_03_18_32.html 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:19:52,169 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:19:52,418 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:19:52,442 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:19:59,720 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:20:01,684 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:20:01,692 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:9) This script will automatically login and logout 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:20:01,696 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:20:01,697 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:20:08,756 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestSearchButton 2018-02-25 15:20:10,952 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestSearchButton 2018-02-25 15:20:16,994 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestSearchButton 2018-02-25 15:20:18,979 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testSearchButton 
+com.hrm.pages.EmpInfoPage 2018-02-25 15:20:22,847 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.TestSearchButton 2018-02-25 15:20:22,849 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestSearchButton 2018-02-25 15:20:22,850 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestSearchButton 2018-02-25 15:20:23,832 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2018-02-25 15:20:25,376 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/25_02_2018_03_19_52.html 

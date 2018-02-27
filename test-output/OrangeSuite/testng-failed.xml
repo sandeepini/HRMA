@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeSuite]" parallel="tests">
+  <test name="TestOnChrome(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.hrm.scripts.LoginLogoutTest">
+        <methods>
+          <include name="initFrameWork"/>
+          <include name="postCondition"/>
+          <include name="initApplication"/>
+          <include name="closeApplication"/>
+          <include name="testAutoLoginLogout1"/>
+          <include name="publishReport"/>
+          <include name="preCondition"/>
+          <include name="initGlobalVar"/>
+        </methods>
+      </class> <!-- com.hrm.scripts.LoginLogoutTest -->
+    </classes>
+  </test> <!-- TestOnChrome(failed) -->
+</suite> <!-- Failed suite [OrangeSuite] -->

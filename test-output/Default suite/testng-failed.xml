@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.hrm.scripts.TestLeaveListToolTip">
+        <methods>
+          <include name="testLeaveListToolTip"/>
+          <include name="initFrameWork"/>
+          <include name="initApplication"/>
+          <include name="postCondition"/>
+          <include name="closeApplication"/>
+          <include name="publishReport"/>
+          <include name="preCondition"/>
+          <include name="initGlobalVar"/>
+        </methods>
+      </class> <!-- com.hrm.scripts.TestLeaveListToolTip -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
